@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" role="img" aria-label="France Tech emblem">
+  <title>France Tech Emblem 32×32 (Transparent)</title>
+  <!-- Blue leaf -->
+  <ellipse cx="11" cy="12" rx="5.2" ry="3.6" transform="rotate(30 11 12)" fill="#0055A4"/>
+  <!-- Green leaf -->
+  <ellipse cx="18.5" cy="9.5" rx="5.2" ry="3.6" transform="rotate(-25 18.5 9.5)" fill="#2E7D32"/>
+  <!-- Red leaf -->
+  <ellipse cx="19.5" cy="18.5" rx="5.2" ry="3.6" transform="rotate(30 19.5 18.5)" fill="#E0312D"/>
+  <!-- Black stem -->
+  <path d="M16 24 C16 18 16 14 16 8" stroke="#000000" stroke-width="2" stroke-linecap="round" fill="none"/>
+</svg>
