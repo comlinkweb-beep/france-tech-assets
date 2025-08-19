@@ -3,7 +3,7 @@
 This repository hosts the official **32×32 SVG logo** and a minimal public page for verification.
 
 - **Contract (Ethereum)**: `0x6E0902F05eDB81a26f93c05c21Cde4C9D1bD31c0`
-- **Official contact**: `francetech.project@gmail.com`
+- **Official contact**: `paulo-kateregga.sendegeya@ac-mayotte.fr`
 
 ## Direct logo link (raw)
 Once pushed to GitHub, open `assets/ftec-emblem-32.svg` and click **Raw**.
